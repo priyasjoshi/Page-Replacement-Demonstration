@@ -1,6 +1,4 @@
-Name : Priya Joshi					UB ID: 0977510
-
-Page Replacement Demonstration
+Page Replacement Algorithms Demonstration
 
 Features:
 ------------------------------------------------------------------------------------------
@@ -22,4 +20,4 @@ How to Run :
 - Go to folder PageReplacementDemonstration/src
 - Compile the file javac /Test.java
 - Run the program using java Test
-- input file is input.txt available under src/input.txt as                  	given in project description.
+- input file is input.txt available under src/input.txt as given in project description.
